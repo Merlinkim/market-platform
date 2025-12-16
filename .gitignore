@@ -1,0 +1,12 @@
+# env / venv
+.venv/
+
+# python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+
+# secrets (혹시 쓸 경우)
+.env
